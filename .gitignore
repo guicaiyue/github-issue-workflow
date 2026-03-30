@@ -5,6 +5,7 @@ node_modules/
 dist/
 build/
 coverage/
+skill/scripts/node-base/dist/
 
 # Environment files
 .env
