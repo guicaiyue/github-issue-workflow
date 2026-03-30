@@ -1,0 +1,6 @@
+server.log
+skill/scripts/node-base/node_modules
+skill/scripts/node-base/node_modules/**
+skill/scripts/node-base/src/**/*.test.ts
+skill/scripts/node-base/src/testing/**
+**/.vite/**

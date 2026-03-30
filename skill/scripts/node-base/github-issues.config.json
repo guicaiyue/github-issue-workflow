@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "github": {
+    "baseUrl": "https://api.github.com",
+    "apiVersion": "2022-11-28",
+    "repo": {
+      "owner": "halo-dev",
+      "name": "theme-vite-shoka"
+    },
+    "auth": {
+      "tokenEnvVar": "GITHUB_TOKEN"
+    }
+  },
+  "workflow": {
+    "defaultType": "bug",
+    "allowedTypes": ["bug", "fix", "test", "review", "done"],
+    "typeFieldLabel": "Current type"
+  }
+}

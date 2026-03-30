@@ -1,0 +1,33 @@
+{
+  "name": "github-issue-workflow-skill",
+  "version": "0.1.0",
+  "description": "Install the github-issue-workflow Claude Code skill into ~/.claude/skills.",
+  "type": "module",
+  "bin": {
+    "github-issue-workflow-skill": "./installer/install.mjs"
+  },
+  "files": [
+    "skill",
+    "installer/install.mjs",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "pnpm exec tsc -p skill/scripts/node-base/tsconfig.json",
+    "test": "pnpm exec vitest run --config skill/scripts/node-base/vitest.config.ts",
+    "doctor": "node skill/scripts/node-base/doctor.mjs",
+    "cli:issues": "node skill/scripts/node-base/cli.mjs issues list",
+    "prepack": "npm run build"
+  },
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "github-issues",
+    "workflow"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.2"
+  }
+}

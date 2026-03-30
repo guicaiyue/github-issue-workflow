@@ -1,0 +1,14 @@
+{"level":30,"time":1774714483340,"pid":31364,"hostname":"xrz","msg":"config>{\"host\":\"192.168.1.4\",\"user\":\"root\",\"password\":\"******\",\"database\":\"halo-dev\",\"port\":3306}"}
+{"level":30,"time":1774714483341,"pid":31364,"hostname":"xrz","msg":"MySQL MCP server running on stdio"}
+{"level":30,"time":1774760675444,"pid":3176,"hostname":"xrz","msg":"config>{\"host\":\"192.168.1.4\",\"user\":\"root\",\"password\":\"******\",\"database\":\"halo-dev\",\"port\":3306}"}
+{"level":30,"time":1774760675444,"pid":3176,"hostname":"xrz","msg":"MySQL MCP server running on stdio"}
+{"level":30,"time":1774772429209,"pid":46524,"hostname":"xrz","msg":"config>{\"host\":\"192.168.1.4\",\"user\":\"root\",\"password\":\"******\",\"database\":\"halo-dev\",\"port\":3306}"}
+{"level":30,"time":1774772429209,"pid":46524,"hostname":"xrz","msg":"MySQL MCP server running on stdio"}
+{"level":30,"time":1774772749997,"pid":46100,"hostname":"xrz","msg":"config>{\"host\":\"192.168.1.4\",\"user\":\"root\",\"password\":\"******\",\"database\":\"halo-dev\",\"port\":3306}"}
+{"level":30,"time":1774772749997,"pid":46100,"hostname":"xrz","msg":"MySQL MCP server running on stdio"}
+{"level":30,"time":1774780392928,"pid":48196,"hostname":"xrz","msg":"config>{\"host\":\"192.168.1.4\",\"user\":\"root\",\"password\":\"******\",\"database\":\"halo-dev\",\"port\":3306}"}
+{"level":30,"time":1774780392928,"pid":48196,"hostname":"xrz","msg":"MySQL MCP server running on stdio"}
+{"level":30,"time":1774788036384,"pid":36388,"hostname":"xrz","msg":"config>{\"host\":\"192.168.1.4\",\"user\":\"root\",\"password\":\"******\",\"database\":\"halo-dev\",\"port\":3306}"}
+{"level":30,"time":1774788036384,"pid":36388,"hostname":"xrz","msg":"MySQL MCP server running on stdio"}
+{"level":30,"time":1774788707089,"pid":38732,"hostname":"xrz","msg":"config>{\"host\":\"192.168.1.4\",\"user\":\"root\",\"password\":\"******\",\"database\":\"halo-dev\",\"port\":3306}"}
+{"level":30,"time":1774788707089,"pid":38732,"hostname":"xrz","msg":"MySQL MCP server running on stdio"}
