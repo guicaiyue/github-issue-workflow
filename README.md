@@ -26,7 +26,6 @@ github-issue-workflow-skill
 安装完成后，该目录下会直接包含：
 
 - `SKILL.md`
-- `examples.md`
 - `types/`
 - `templates/`
 - `scripts/`
